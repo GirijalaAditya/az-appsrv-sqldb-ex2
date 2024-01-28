@@ -1,0 +1,1 @@
+# Azure App Service SQL Database Connection String
